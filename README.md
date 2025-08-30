@@ -8,7 +8,6 @@ This project uses dual LDRs and a servo motor to track sunlight and optimize sol
 
 ## Folder Structure
 - `arduino_sun_tracker/` – Arduino code for LDR-based tracking
-- `verilog_modules/` – PWM and ADC interface modules
 - `docs/` – Design notes and schematics
 
 ## Getting Started
